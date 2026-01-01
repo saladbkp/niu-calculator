@@ -1,16 +1,8 @@
 # niu
 
-A new Flutter project.
+when pp noob at counting number like me 😭 
 
-## Getting Started
+fck mod 10
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+i create this 
+<img width="307" height="551" alt="image" src="https://github.com/user-attachments/assets/9d1a75cb-a098-45b1-8ed1-6c73ce39f02b" />
